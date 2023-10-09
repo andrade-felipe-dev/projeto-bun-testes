@@ -6,4 +6,4 @@ Instale o BUN
 npm install -g bun 
 
 Após isso você pode rodar um:
-Npm install, para baixar as dependencias do projeto, estou usando além do bun o prisma e o jest para os testes.
+Npm install, para baixar as dependencias do projeto, estou usando além do bun o prisma.
