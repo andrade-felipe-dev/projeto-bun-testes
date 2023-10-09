@@ -1,0 +1,17 @@
+{
+  "name": "projeto-transformacao-dev",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "prisma": "^5.4.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@prisma/client": "5.4.1",
+    "@types/uuid": "^9.0.4",
+    "uuid": "^9.0.1"
+  }
+}
